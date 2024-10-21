@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "firstName": "Grissel",
+    "lastName": "Druitt",
+    "email": "gdruitt0@homestead.com",
+    "rut": "25111111-1",
+    "phone": "637-891-3391",
+    "children": [],
+    "createdAt": "6/23/2022",
+    "createdBy": "Grissel Druitt",
+    "updatedAt": "12/24/2022",
+    "updatedBy": "Grissel Druitt",
+    "deletedAt": "4/23/2022",
+    "deletedBy": "Grissel Druitt"
+  },
+  {
+    "id": 2,
+    "firstName": "Eward",
+    "lastName": "Barczynski",
+    "email": "ebarczynski1@oaic.gov.au",
+    "rut": "25111111-1",
+    "phone": "983-107-2448",
+    "children": [
+      {
+        "gender": "M",
+        "name": "Osgood",
+        "age": 7
+      },
+      {
+        "gender": "F",
+        "name": "Dolores",
+        "age": 8
+      },
+      {
+        "gender": "M",
+        "name": "Constantine",
+        "age": 5
+      },
+      {
+        "gender": "M",
+        "name": "Josias",
+        "age": 7
+      },
+      {
+        "gender": "F",
+        "name": "Livvyy",
+        "age": 5
+      },
+      {
+        "gender": "M",
+        "name": "Cornie",
+        "age": 5
+      },
+      {
+        "gender": "F",
+        "name": "Colleen",
+        "age": 3
+      }
+    ],
+    "createdAt": "2/19/2023",
+    "createdBy": "Eward Barczynski",
+    "updatedAt": "12/27/2022",
+    "updatedBy": "Eward Barczynski",
+    "deletedAt": "1/12/2023",
+    "deletedBy": "Eward Barczynski"
+  },
+  {
+    "id": 3,
+    "firstName": "Ilse",
+    "lastName": "Monshall",
+    "email": "imonshall2@wikia.com",
+    "rut": "25111111-1",
+    "phone": "153-987-1889",
+    "children": [
+      {
+        "gender": "F",
+        "name": "Margi",
+        "age": 9
+      },
+      {
+        "gender": "M",
+        "name": "My",
+        "age": 11
+      },
+      {
+        "gender": "F",
+        "name": "Milli",
+        "age": 9
+      },
+      {
+        "gender": "F",
+        "name": "Tildie",
+        "age": 10
+      }
+    ],
+    "createdAt": "9/17/2022",
+    "createdBy": "Ilse Monshall",
+    "updatedAt": "8/9/2022",
+    "updatedBy": "Ilse Monshall",
+    "deletedAt": "6/20/2022",
+    "deletedBy": "Ilse Monshall"
+  },
+  {
+    "id": 4,
+    "firstName": "Robinia",
+    "lastName": "Cowdry",
+    "email": "rcowdry3@yelp.com",
+    "rut": "25111111-1",
+    "phone": "103-950-4798",
+    "children": [],
+    "createdAt": "6/14/2022",
+    "createdBy": "Robinia Cowdry",
+    "updatedAt": "2/21/2023",
+    "updatedBy": "Robinia Cowdry",
+    "deletedAt": "6/16/2022",
+    "deletedBy": "Robinia Cowdry"
+  },
+  {
+    "id": 5,
+    "firstName": "Windy",
+    "lastName": "Lente",
+    "email": "wlente4@bandcamp.com",
+    "rut": "25111111-1",
+    "phone": "129-838-2697",
+    "children": [
+      {
+        "gender": "M",
+        "name": "Meryl",
+        "age": 9
+      },
+      {
+        "gender": "M",
+        "name": "Fraze",
+        "age": 10
+      },
+      {
+        "gender": "M",
+        "name": "Gannie",
+        "age": 10
+      },
+      {
+        "gender": "F",
+        "name": "Netta",
+        "age": 12
+      },
+      {
+        "gender": "M",
+        "name": "Eugen",
+        "age": 4
+      },
+      {
+        "gender": "M",
+        "name": "Germayne",
+        "age": 6
+      },
+      {
+        "gender": "F",
+        "name": "Codie",
+        "age": 3
+      },
+      {
+        "gender": "M",
+        "name": "Napoleon",
+        "age": 4
+      },
+      {
+        "gender": "M",
+        "name": "Aube",
+        "age": 8
+      }
+    ],
+    "createdAt": "10/15/2022",
+    "createdBy": "Windy Lente",
+    "updatedAt": "4/20/2023",
+    "updatedBy": "Windy Lente",
+    "deletedAt": "10/31/2022",
+    "deletedBy": "Windy Lente"
+  },
+  {
+    "id": 6,
+    "firstName": "Nanni",
+    "lastName": "Athow",
+    "email": "nathow5@wufoo.com",
+    "rut": "25111111-1",
+    "phone": "486-970-5506",
+    "children": [
+      {
+        "gender": "F",
+        "name": "Mala",
+        "age": 7
+      },
+      {
+        "gender": "M",
+        "name": "Bert",
+        "age": 8
+      }
+    ],
+    "createdAt": "4/26/2022",
+    "createdBy": "Nanni Athow",
+    "updatedAt": "1/12/2023",
+    "updatedBy": "Nanni Athow",
+    "deletedAt": "11/9/2022",
+    "deletedBy": "Nanni Athow"
+  },
+  {
+    "id": 7,
+    "firstName": "Klarrisa",
+    "lastName": "Needham",
+    "email": "kneedham6@github.io",
+    "rut": "25111111-1",
+    "phone": "651-305-2722",
+    "children": [],
+    "createdAt": "7/27/2022",
+    "createdBy": "Klarrisa Needham",
+    "updatedAt": "2/4/2023",
+    "updatedBy": "Klarrisa Needham",
+    "deletedAt": "8/12/2022",
+    "deletedBy": "Klarrisa Needham"
+  },
+  {
+    "id": 8,
+    "firstName": "Roddie",
+    "lastName": "Crowch",
+    "email": "rcrowch7@gnu.org",
+    "rut": "25111111-1",
+    "phone": "177-823-3816",
+    "children": [
+      {
+        "gender": "M",
+        "name": "Glenden",
+        "age": 12
+      },
+      {
+        "gender": "M",
+        "name": "Elmer",
+        "age": 6
+      },
+      {
+        "gender": "M",
+        "name": "Edgard",
+        "age": 8
+      },
+      {
+        "gender": "F",
+        "name": "Gerry",
+        "age": 11
+      },
+      {
+        "gender": "M",
+        "name": "Brockie",
+        "age": 4
+      }
+    ],
+    "createdAt": "7/31/2022",
+    "createdBy": "Roddie Crowch",
+    "updatedAt": "4/15/2023",
+    "updatedBy": "Roddie Crowch",
+    "deletedAt": "1/24/2023",
+    "deletedBy": "Roddie Crowch"
+  },
+  {
+    "id": 9,
+    "firstName": "Christin",
+    "lastName": "Lidden",
+    "email": "clidden8@upenn.edu",
+    "rut": "25111111-1",
+    "phone": "679-126-4753",
+    "children": [
+      {
+        "gender": "F",
+        "name": "Gwen",
+        "age": 5
+      },
+      {
+        "gender": "F",
+        "name": "Alvina",
+        "age": 12
+      },
+      {
+        "gender": "M",
+        "name": "Blair",
+        "age": 12
+      },
+      {
+        "gender": "F",
+        "name": "Faye",
+        "age": 4
+      },
+      {
+        "gender": "M",
+        "name": "Arther",
+        "age": 7
+      },
+      {
+        "gender": "M",
+        "name": "Pedro",
+        "age": 5
+      },
+      {
+        "gender": "M",
+        "name": "Rancell",
+        "age": 9
+      },
+      {
+        "gender": "F",
+        "name": "Kylynn",
+        "age": 11
+      },
+      {
+        "gender": "F",
+        "name": "Dorthy",
+        "age": 7
+      }
+    ],
+    "createdAt": "11/18/2022",
+    "createdBy": "Christin Lidden",
+    "updatedAt": "1/26/2023",
+    "updatedBy": "Christin Lidden",
+    "deletedAt": "12/15/2022",
+    "deletedBy": "Christin Lidden"
+  },
+  {
+    "id": 10,
+    "firstName": "Trumaine",
+    "lastName": "Warwick",
+    "email": "twarwick9@chicagotribune.com",
+    "rut": "25111111-1",
+    "phone": "751-697-0666",
+    "children": [
+      {
+        "gender": "F",
+        "name": "Pennie",
+        "age": 5
+      },
+      {
+        "gender": "M",
+        "name": "Kaine",
+        "age": 3
+      },
+      {
+        "gender": "M",
+        "name": "Nathanael",
+        "age": 8
+      },
+      {
+        "gender": "M",
+        "name": "Arman",
+        "age": 4
+      }
+    ],
+    "createdAt": "4/17/2023",
+    "createdBy": "Trumaine Warwick",
+    "updatedAt": "6/12/2022",
+    "updatedBy": "Trumaine Warwick",
+    "deletedAt": "2/16/2023",
+    "deletedBy": "Trumaine Warwick"
+  }
+]

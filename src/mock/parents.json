@@ -6,13 +6,22 @@
     "email": "gdruitt0@homestead.com",
     "rut": "25111111-1",
     "phone": "637-891-3391",
-    "children": [],
-    "createdAt": "6/23/2022",
+    "children": [
+      {
+        "gender": "M",
+        "name": "Mario",
+        "age": 7
+      }
+    ],
+    "createdAt": "2024-11-07T11:45:14.779Z",
     "createdBy": "Grissel Druitt",
-    "updatedAt": "12/24/2022",
+    "updatedAt": "2024-11-07T11:45:14.779Z",
     "updatedBy": "Grissel Druitt",
-    "deletedAt": "4/23/2022",
-    "deletedBy": "Grissel Druitt"
+    "deletedAt": "2024-11-07T11:45:14.779Z",
+    "deletedBy": "Grissel Druitt",
+    "isActive": true,
+    "isPaused": false,
+    "status": true
   },
   {
     "id": 2,
@@ -58,12 +67,15 @@
         "age": 3
       }
     ],
-    "createdAt": "2/19/2023",
+    "createdAt": "2024-11-07T11:45:14.779Z",
     "createdBy": "Eward Barczynski",
-    "updatedAt": "12/27/2022",
+    "updatedAt": "2024-11-07T11:45:14.779Z",
     "updatedBy": "Eward Barczynski",
-    "deletedAt": "1/12/2023",
-    "deletedBy": "Eward Barczynski"
+    "deletedAt": "2024-11-07T11:45:14.779Z",
+    "deletedBy": "Eward Barczynski",
+    "isActive": true,
+    "isPaused": false,
+    "status": true
   },
   {
     "id": 3,
@@ -94,12 +106,15 @@
         "age": 10
       }
     ],
-    "createdAt": "9/17/2022",
+    "createdAt": "2024-11-07T11:45:14.779Z",
     "createdBy": "Ilse Monshall",
-    "updatedAt": "8/9/2022",
+    "updatedAt": "2024-11-07T11:45:14.779Z",
     "updatedBy": "Ilse Monshall",
-    "deletedAt": "6/20/2022",
-    "deletedBy": "Ilse Monshall"
+    "deletedAt": "2024-11-07T11:45:14.779Z",
+    "deletedBy": "Ilse Monshall",
+    "isActive": true,
+    "isPaused": false,
+    "status": true
   },
   {
     "id": 4,
@@ -109,12 +124,15 @@
     "rut": "25111111-1",
     "phone": "103-950-4798",
     "children": [],
-    "createdAt": "6/14/2022",
+    "createdAt": "2024-11-07T11:45:14.779Z",
     "createdBy": "Robinia Cowdry",
-    "updatedAt": "2/21/2023",
+    "updatedAt": "2024-11-07T11:45:14.779Z",
     "updatedBy": "Robinia Cowdry",
-    "deletedAt": "6/16/2022",
-    "deletedBy": "Robinia Cowdry"
+    "deletedAt": "2024-11-07T11:45:14.779Z",
+    "deletedBy": "Robinia Cowdry",
+    "isActive": true,
+    "isPaused": false,
+    "status": false
   },
   {
     "id": 5,
@@ -170,12 +188,15 @@
         "age": 8
       }
     ],
-    "createdAt": "10/15/2022",
+    "createdAt": "2024-11-07T11:45:14.779Z",
     "createdBy": "Windy Lente",
-    "updatedAt": "4/20/2023",
+    "updatedAt": "2024-11-07T11:45:14.779Z",
     "updatedBy": "Windy Lente",
-    "deletedAt": "10/31/2022",
-    "deletedBy": "Windy Lente"
+    "deletedAt": "2024-11-07T11:45:14.779Z",
+    "deletedBy": "Windy Lente",
+    "isActive": true,
+    "isPaused": false,
+    "status": true
   },
   {
     "id": 6,
@@ -196,12 +217,15 @@
         "age": 8
       }
     ],
-    "createdAt": "4/26/2022",
+    "createdAt": "2024-11-07T11:45:14.779Z",
     "createdBy": "Nanni Athow",
-    "updatedAt": "1/12/2023",
+    "updatedAt": "2024-11-07T11:45:14.779Z",
     "updatedBy": "Nanni Athow",
-    "deletedAt": "11/9/2022",
-    "deletedBy": "Nanni Athow"
+    "deletedAt": "2024-11-07T11:45:14.779Z",
+    "deletedBy": "Nanni Athow",
+    "isActive": true,
+    "isPaused": false,
+    "status": true
   },
   {
     "id": 7,
@@ -211,12 +235,15 @@
     "rut": "25111111-1",
     "phone": "651-305-2722",
     "children": [],
-    "createdAt": "7/27/2022",
+    "createdAt": "2024-11-07T11:45:14.779Z",
     "createdBy": "Klarrisa Needham",
-    "updatedAt": "2/4/2023",
+    "updatedAt": "2024-11-07T11:45:14.779Z",
     "updatedBy": "Klarrisa Needham",
-    "deletedAt": "8/12/2022",
-    "deletedBy": "Klarrisa Needham"
+    "deletedAt": "2024-11-07T11:45:14.779Z",
+    "deletedBy": "Klarrisa Needham",
+    "isActive": true,
+    "isPaused": false,
+    "status": false
   },
   {
     "id": 8,
@@ -252,12 +279,15 @@
         "age": 4
       }
     ],
-    "createdAt": "7/31/2022",
+    "createdAt": "2024-11-07T11:45:14.779Z",
     "createdBy": "Roddie Crowch",
-    "updatedAt": "4/15/2023",
+    "updatedAt": "2024-11-07T11:45:14.779Z",
     "updatedBy": "Roddie Crowch",
-    "deletedAt": "1/24/2023",
-    "deletedBy": "Roddie Crowch"
+    "deletedAt": "2024-11-07T11:45:14.779Z",
+    "deletedBy": "Roddie Crowch",
+    "isActive": true,
+    "isPaused": false,
+    "status": true
   },
   {
     "id": 9,
@@ -313,12 +343,15 @@
         "age": 7
       }
     ],
-    "createdAt": "11/18/2022",
+    "createdAt": "2024-11-07T11:45:14.779Z",
     "createdBy": "Christin Lidden",
-    "updatedAt": "1/26/2023",
+    "updatedAt": "2024-11-07T11:45:14.779Z",
     "updatedBy": "Christin Lidden",
-    "deletedAt": "12/15/2022",
-    "deletedBy": "Christin Lidden"
+    "deletedAt": "2024-11-07T11:45:14.779Z",
+    "deletedBy": "Christin Lidden",
+    "isActive": false,
+    "isPaused": false,
+    "status": true
   },
   {
     "id": 10,
@@ -349,11 +382,14 @@
         "age": 4
       }
     ],
-    "createdAt": "4/17/2023",
+    "createdAt": "2024-11-07T11:45:14.779Z",
     "createdBy": "Trumaine Warwick",
-    "updatedAt": "6/12/2022",
+    "updatedAt": "2024-11-07T11:45:14.779Z",
     "updatedBy": "Trumaine Warwick",
-    "deletedAt": "2/16/2023",
-    "deletedBy": "Trumaine Warwick"
+    "deletedAt": "2024-11-07T11:45:14.779Z",
+    "deletedBy": "Trumaine Warwick",
+    "isActive": false,
+    "isPaused": false,
+    "status": true
   }
 ]
